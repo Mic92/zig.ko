@@ -1,7 +1,7 @@
 # Linux kernel module written in Zig
 
-This is a proof-of-concept on how to integrate
-code written in [zig](https://ziglang.org/).
+This is a proof-of-concept on how to integrate [zig](https://ziglang.org/) into
+Linux kernel modules.
 
 ## USAGE
 
